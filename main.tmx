@@ -114,7 +114,7 @@
  </layer>
  <layer id="5" name="exitToRC3" width="48" height="43">
   <properties>
-   <property name="exitUrl" value="TODO"/>
+   <property name="exitUrl" value="{&lt;lobby&gt;/maps/software.json#start_mozilla-hubs}"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

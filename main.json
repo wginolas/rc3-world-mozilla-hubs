@@ -44,7 +44,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"TODO"
+                 "value":"{<lobby>\/maps\/software.json#start_mozilla-hubs}"
                 }],
          "type":"tilelayer",
          "visible":true,
